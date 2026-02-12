@@ -189,4 +189,4 @@ The implementation prioritizes correctness, clarity, and testability.
 
 ## 🎥 Demo Video
 
-[![Watch the demo](https://youtu.be/9rl-eUG12Fw)
+[Watch the demo](https://youtu.be/9rl-eUG12Fw)
